@@ -1,0 +1,14 @@
+*.pyc
+*~
+.project
+.pydevproject
+docs/_build
+build
+dist
+*.bak
+.#*
+\#*
+*.db
+*.tmp
+virtualenv
+venv
